@@ -13,3 +13,12 @@
 --- 
 
 Vulnpath is a project focused on discovering numerous types of vulnerabilities in web directories. This implementation has the potential for automation chaining, particularly in conjunction with tools from **@projectdiscovery**. The project will utilize a multi-classification model trained on a custom dataset that has been carefully curated. The custom dataset will be evaluated using exploitdb files to identify the appropriate path directories for specific web vulnerabilities. (NOTE: The project will employ a multimodal approach, employing various models to provide diverse classifications for different types of web vulnerabilities. Initially, we will begin with a limited number of classes and gradually expand as the project progresses.)
+
+# Install Vulnpath
+
+<details close>
+<summary>Docker</summary>
+<br>
+
+    Coming soon!
+</details>
